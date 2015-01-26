@@ -16,6 +16,3 @@ class Link(Base):
 
     def __repr__(self):
         return '<Link %r>' % (self.url)
-
-    def hit(self):
-        self.hits += 1

@@ -19,6 +19,7 @@ Layout is built using [Pure.css][pure].
 
 ## Improvement ideas ##
 
+* Tests
 * Users and editable links
 * Change return type based on Accept-header
 * Rate limit
